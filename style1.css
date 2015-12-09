@@ -98,8 +98,13 @@ footer .foot{
   margin-top: -50px;
 }
 .foot p{
-  font-size:15px;
+  font-size:18px;
   padding-top: 30px;
-  padding-left: 50px;
-  color:blue;
+  padding-left: 75px;
+  color:black;
+}
+.foot h6{
+  float: right;
+  margin-top: -25px;
+  font-size: 18;
 }
