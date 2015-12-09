@@ -8,14 +8,10 @@ font-size: 16;
 background:white;
 }
 .port img{
-  float: right;
+  float: left;
   width: 250;
   height: 100px;
 }
-.wrap1{
-
-}
-
 .wrap img{
   width: 250px;
   height: 100px;
@@ -49,21 +45,20 @@ img{
 .main p{
   margin-top: -10px;
 }
+.head h1{
+padding-left: 300px;
+}
 .hero h4{
 color: YELLOW;
 margin-top: 5px;
 margin-top: -50px;
   }
+
 .hero img{
     width: 100%;
     height: 500px;
-    padding-left:10px;
+}
 
-}
-.para p{
-  text-decoration: none;
-  padding-bottom: 50px;
-}
 .sport img{
    width: 200px;
  height: 200px;
