@@ -1,28 +1,64 @@
 body{
   font-size: 16;
-  background:white;
-}
-.wrap h1{
-  font-size: 30;
-  color: blue;
-  margin-top:25px;
-}
-.wrap h6{
-  padding-left: 60px;
-  font-size: 14;
-  float: left;
+  background:#F5F5DC;
 }
 .container_12{
-  padding: 4px;
-margin-bottom: 20px;
-background:grey;
-
+margin-top: 20px;
+color: blue;
+font-size: 16;
 }
-nav li{
+.wrap{
+  height: 250px;
+}
+.wrap p{
+  float: left;
+  font-size: 14;
+  margin-left: 210px;
+  margin-top: -25px;
+  /*padding-bottom: -350px;*/
+  }
+.wrap h1{
+  font-size: 62;
+padding-left: 25px;
+}
+.wrap img{
+  width: 300px;
+  height:170px;
+  margin-top: -95px;
   float: right;
-  padding-top: 30px;
-  padding-right:40px;
+  padding-right: 75px;
+  /*padding-left: 200px;*/
 }
+
+nav li{
+  display:inline;
+  margin-left: 0;margin-right: 30px;
+  float: right;
+  font-size: 14;
+}
+
+/*.wrap h1{
+  font-size: 42;
+  color: blue;
+  margin-top:40px;
+}
+.wrap{
+  height: 150px;
+  background: grey;
+}
+.container_12{
+padding: 2px;
+margin-bottom: 20px;
+background: pink;
+}*/
+/*nav li{
+  float: right;
+
+  padding-top: -30px;
+  padding-right:10px;
+  padding: 5px;
+  margin-bottom: -50PX;
+}*/
 nav a{
   color:blue;
 }
@@ -56,9 +92,10 @@ footer .foot{
 }
 .foot img{
   padding:2px;
-  width: 50px;
-  height: 30px;
+  width: 75px;
+  height: 50px;
   float: right;
+  margin-top: -50px;
 }
 .foot p{
   font-size:15px;
